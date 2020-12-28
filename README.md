@@ -6,6 +6,6 @@ Mentor:
   Dr. Edward M Latorre-Navarro
 
 Developers:
-  Cristian Fuentes-Beniquez
+  Cristian Fuentes-Beniquez,
   Javier Gonzalez-Martinez
 
